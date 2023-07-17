@@ -133,9 +133,9 @@ header {
     }
 }
 
-/* .logo {
-
-} */
+.logo{
+    color: #fff;
+}
 
 #cart-icon {
     font-size: 1.8rem;

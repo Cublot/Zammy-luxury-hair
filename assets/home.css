@@ -205,7 +205,7 @@ header nav .right-menu .user-cart .user::before{
  }
  header section .content .price-order .price h2{
    font-size: 20px;
-   color: goldenrod;
+   color: red;
    line-height: 18px;
  }
  header section .content .price-order .price p{
